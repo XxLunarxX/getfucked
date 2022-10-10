@@ -30,6 +30,7 @@ NameMc:
 V3rmillion:
 	https://v3rmillion.net/member.php?action=profile&uid=2913722
 	https://v3rmillion.net/member.php?action=profile&uid=1342605
+	https://v3rmillion.net/member.php?action=profile&uid=2791063
 Github:
 	https://github.com/tehtestedd
 	https://github.com/TehTested
@@ -61,3 +62,5 @@ Mother:
 		gngrx2 (obviously)
 	Common passwords:
 		conorado
+Doxxed by XxLunarxX#8011
+Get Fucked
